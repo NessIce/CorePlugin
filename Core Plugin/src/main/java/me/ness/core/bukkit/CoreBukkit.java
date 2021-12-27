@@ -27,8 +27,6 @@ public class CoreBukkit extends JavaPlugin {
         EventsManager.loadEvents();
         CommandManager.loadCommands();
 
-
-        Bukkit.getConsoleSender().sendMessage("§6[Core] §aHabilitado com sucesso!");
         Bukkit.getConsoleSender().sendMessage("§6[Core] §aHabilitado com sucesso!");
     }
 
