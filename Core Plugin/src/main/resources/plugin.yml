@@ -1,0 +1,8 @@
+name: Core
+version: '${project.version}'
+prefix: Minevil
+authors: [ NessIce ]
+description: '${project.description}'
+website: '${project.url}'
+
+main: me.ness.core.bukkit.CoreBukkit

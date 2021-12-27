@@ -1,0 +1,17 @@
+stats: "&e%currentpps% PPS &7> &e%currentcps% CPS &7> &e%currentjps% JPS &7> &e%totalbls% BLS &7> &e%totalwls% WLS"
+
+notification:
+  message: "&c&e%address% &7> &6%check% &7> &c%currentincoming% Entradas &7> &c%totalblocked% Bloqueados"
+
+pt-BR:
+  kick:
+    blocked: "&cVocê está temporariamente bloqueado deste servidor!\n\n&7Motivo:"
+    accounts: "%kick_blocked% &fMuitas contas. [Accounts]"
+    whitelist: "%kick_blocked% &fO server está sob ataque. [Whitelist]"
+    blacklist: "%kick_blocked% &fAlgorítimo de bot detectado. [Blacklist]"
+    fastchat: "%kick_blocked% &fAlgorítimo de bot detectado. [FastChat]"
+    ratelimit: "%kick_blocked% &fMuitas conexões. [RateLimit]"
+    nickname: "%kick_blocked% &fAlgorítimo de bot detectado. [NickName]"
+    settings: "%kick_blocked% &fAlgorítimo de bot detectado. [Settings]"
+    password: "%kick_blocked% &fAlgorítimo de bot detectado. [Password]"
+    reconnect: "&cAdicione o server na lista de servidores e recarregue!\n&cRecarregue e reconecte mais %reconnect_times% vezes para entrar!\n\n&7Motivo: &fVerifique que você não é um bot."
