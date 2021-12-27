@@ -12,7 +12,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class CoreBukkit extends JavaPlugin {
 
     private static CoreBukkit plugin;
-    //test2
+
     @Override
     public void onEnable() {
         plugin = this;
